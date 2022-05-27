@@ -12,6 +12,7 @@ def sum_multi(numero1, numero2):
     return (suma, multiplicacion)
 
 
+
 numero1, numero2 = 10, 20
 result = sum_multi(numero1, numero2)
 print(result)
